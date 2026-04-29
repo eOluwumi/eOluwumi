@@ -7,11 +7,12 @@ To build structurally faithful and scalable AI systems for real-world cybersecur
 
 ## Selected Research & Publications
 
-- Context-based Password Change Enforcement Model — Accepted, Inderscience Publishers
+- Context-based Password Change Enforcement Model — International Journal of Information and Computer Security
 - PHISHGEM: Mobile game-based learning for phishing awareness — Journal of Cyber Security Technology
 - Data Augmentation-based System for Future Malware Prediction — NCS Conference Proceedings
-- Enhanced Pattern-based Detection for Computer Virus
-- Modelling Cybersecurity Knowledge and Attitudes of Online Users
+- Modelling Cybersecurity Knowledge and Attitudes of Online Users - Journal Publishing Practices and Standards (JPPS)
+- Enhanced Pattern-based Detection for Computer Virus - Information Technology & Eduction Development
+
 
 ## Current Focus
 
