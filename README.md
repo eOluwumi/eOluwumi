@@ -10,8 +10,8 @@ To build structurally faithful and scalable AI systems for real-world cybersecur
 - Context-based Password Change Enforcement Model — International Journal of Information and Computer Security
 - PHISHGEM: Mobile game-based learning for phishing awareness — Journal of Cyber Security Technology
 - Data Augmentation-based System for Future Malware Prediction — NCS Conference Proceedings
-- Modelling Cybersecurity Knowledge and Attitudes of Online Users - Journal Publishing Practices and Standards (JPPS)
-- Enhanced Pattern-based Detection for Computer Virus - Information Technology & Eduction Development
+- Modelling Cybersecurity Knowledge and Attitudes of Online Users — Journal Publishing Practices and Standards (JPPS)
+- Enhanced Pattern-based Detection for Computer Virus — Information Technology & Eduction Development
 
 
 ## Current Focus
