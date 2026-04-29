@@ -1,3 +1,10 @@
+## 👋 Hi, I'm Enoch Oluwumi
+
+Data Scientist and AI-driven Cybersecurity Researcher focused on building intelligent, adaptive systems for malware detection and cyber defence.
+
+### 🎯 Mission
+To build structurally faithful and scalable AI systems for real-world cybersecurity challenges in Africa.
+
 ## Selected Research & Publications
 
 - Context-based Password Change Enforcement Model — Accepted, Inderscience Publishers
