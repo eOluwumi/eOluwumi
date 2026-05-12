@@ -6,9 +6,6 @@ A Data Scientist and data systems professional working across analytics, automat
 
 To build practical data, automation, and AI systems that solve real operational and cybersecurity problems in African contexts.
 
-### 🎯 Mission
-To build structurally faithful and scalable AI systems for real-world cybersecurity challenges in Africa.
-
 ## Selected Research & Publications
 
 - Context-based Password Change Enforcement Model — International Journal of Information and Computer Security
@@ -16,7 +13,6 @@ To build structurally faithful and scalable AI systems for real-world cybersecur
 - Data Augmentation-based System for Future Malware Prediction — NCS Conference Proceedings
 - Modelling Cybersecurity Knowledge and Attitudes of Online Users — Journal Publishing Practices and Standards (JPPS)
 - Enhanced Pattern-based Detection for Computer Virus — Information Technology & Eduction Development
-
 
 ## Current Focus
 
