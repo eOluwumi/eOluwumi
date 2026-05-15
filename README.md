@@ -2,9 +2,9 @@
 
 **Data Scientist | Data Systems & Analytics Professional | Python, SQL, Power BI & Automation**
 
-I build practical data, automation, and AI/cybersecurity-aware systems that turn messy operational data into structured, decision-ready workflows.
+I build practical data, automation, and AI/cybersecurity-aware systems that turn messy operational work into structured, decision-ready workflows.
 
-Currently working at **Nigeria Computer Society (NCS)** across data validation, reporting automation, IT systems support, and institutional ICT operations.
+Currently in the **IT Department at the Nigeria Computer Society (NCS)**, supporting IT operations, research/technical deliverables, automation, reporting, and data-related project work.
 
 ---
 
