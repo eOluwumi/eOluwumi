@@ -4,7 +4,7 @@
 
 I build practical data, automation, and AI/cybersecurity-aware systems that turn messy operational data into structured, decision-ready workflows.
 
-Currently working at the **Nigeria Computer Society (NCS)** across data validation, reporting automation, IT systems support, and institutional ICT operations.
+Currently working at **Nigeria Computer Society (NCS)** across data validation, reporting automation, IT systems support, and institutional ICT operations.
 
 ---
 
