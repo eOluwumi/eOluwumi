@@ -46,7 +46,7 @@ Developed and investigated a deep-learning framework involving MalwareAutoEncode
 ## Selected Engineering Projects
 
 - **[Birthday Celebrations Automation](https://github.com/eOluwumi/birthdayCelebrations)** — Python workflow that reads member records from Excel, checks dates of birth and sends individual birthday emails. Designed for scheduled execution, with environment-based SMTP configuration and optional Telegram notifications.
-- **[BringBackBarter / B3](https://github.com/eOluwumi/v0B3)** — Early-stage digital barter platform concept. The prototype explores authentication, listings, trade flows, messaging and dashboards using Next.js and Supabase.
+- **[BringBackBarter / B3](https://github.com/eOluwumi/v0B3)** — [barternaija.com.ng](https://barternaija.com.ng) — Early-stage digital barter platform concept. The prototype explores authentication, listings, trade flows, messaging and dashboards using Next.js and Supabase.
 - **[LLM Benchmarks](https://github.com/eOluwumi/llm-benchmarks)** — Experiments comparing locally run language models and evaluating performance characteristics.
 - **[Cloudroom Azure Agent Lab](https://github.com/eOluwumi/cloudroom-azure-agent-lab)** — Azure-based agent and infrastructure experimentation.
 - **[Smart Cyber Defence Team](https://github.com/eOluwumi/Smart-Cyber-Defence-Team)** — Collaborative cybersecurity research and intelligent-system development.
@@ -59,7 +59,7 @@ Project maturity differs: some repositories document completed work, while other
 ## Professional Experience
 
 - **Associate Lecturer — Federal University of Agriculture, Abeokuta:** undergraduate instruction in Introduction to Cybersecurity and Systems Security; learning materials, assessments and student support.
-- **Co-founder — B9 Tech Consults:** technology consulting across AI, data analytics and digital transformation, including solution architecture and automation initiatives.
+- **Co-founder — B9 Tech Consults:** [b9tech.barternaija.com.ng](https://b9tech.barternaija.com.ng) — technology consulting across AI, data analytics and digital transformation, including solution architecture and automation initiatives.
 - **Customer Experience Outreach Analyst — Academic Advisory Network:** ICT membership-record processing, Excel automation, database-migration support, access-control improvements and reporting.
 - **IT Support Staff & Data Scientist — Nigeria Computer Society:** IT support, data and research-related technical work.
 - **Research Assistant — Federal University of Agriculture, Abeokuta:** academic-record digitisation, data preparation, analytics and research reporting.
@@ -97,7 +97,8 @@ Project maturity differs: some repositories document completed work, while other
 ## Connect
 
 - **LinkedIn:** [enoch-oluwumi](https://www.linkedin.com/in/enoch-oluwumi-b075a2386/)
-- **B9 Tech Consults:** [b9tech-consults.vercel.app](https://b9tech-consults.vercel.app/)
+- **B9 Tech Consults:** [b9tech.barternaija.com.ng](https://b9tech.barternaija.com.ng)
+- **BringBackBarter (B3):** [barternaija.com.ng](https://barternaija.com.ng)
 - **Email:** enoch@barternaija.com.ng
 - **GitHub:** [@eOluwumi](https://github.com/eOluwumi)
 
